@@ -1,0 +1,106 @@
+body{
+    background-color: #040311;
+}
+img{
+    border-color: rgb(12, 12, 12);
+    height:150px;
+    /*margin-left: 400px;
+    margin-top: 45px;*/
+    border-radius: 6.5px;
+    
+}
+
+#d1{
+    margin: auto;
+    height: 1600px;
+    width: 65%;
+    background-color: rgb(21, 21, 63);
+    border-radius: 6.5px;
+}
+
+#im{
+     padding-top: 50px;
+     padding-right: 80px;
+     position: absolute;
+     padding-left: 610px;
+     text-align: justify;
+     color: rgb(233, 198, 146);
+     
+}
+
+#det{
+    width: fit-content;
+    height: fit-content;
+    padding-top: 30px;
+    padding-left: 45px;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(204, 200, 200);
+    text-align: justify;
+    }
+
+#n{
+    font-size: 10mm;
+}
+
+#sum{
+    width: 550px;
+}
+
+#d3{
+    width: 650px;
+    text-align: justify;
+}
+
+.little{
+    width: 150px;
+    font-size: 12px;
+    text-align: center;
+}
+
+input{
+    border: 1px solid #99e4e4;
+    background-color: rgb(21, 21, 63);
+    color: lavenderblush;
+    width: 255px;
+}
+
+hr{
+   position: absolute;
+   z-index: 1;
+   left: 125mm;
+   width: 100mm;
+    
+    
+}
+
+textarea{
+    background-color: rgb(21, 21, 63);
+    resize: none;
+    border: 1px solid #99e4e4;
+    width: 100%;
+    color: lavenderblush;
+}
+
+select{
+    background-color: rgb(21, 21, 63);
+    color: lavenderblush;
+    height: 30px;
+    border: 1px solid #99e4e4;
+    padding-left: 5px;
+}
+
+button{
+    background-color: rgb(127, 201, 43);
+    color: rgb(16, 35, 88);
+    border-color: oldlace;
+    margin: 4px;
+    width: 90px;
+    height: 30px;
+    outline: none;
+}
+
+table{
+    margin-left: 145px;
+    border-color: lightslategray;
+}
